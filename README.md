@@ -11,13 +11,13 @@
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/hportife/Born2beroot)](https://github.com/JaeSeoKim/badge42)  
 ### mini_talk  
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/hportife/minitalk)](https://github.com/JaeSeoKim/badge42)  
-### FdF  
-[![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/hportife/FdF)](https://github.com/JaeSeoKim/badge42)  
+<!-- ### FdF  
+[![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/hportife/FdF)](https://github.com/JaeSeoKim/badge42)   -->
 ### push_swap 
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/hportife/push_swap)](https://github.com/JaeSeoKim/badge42)
 ### Philosophers 
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/hportife/Philosophers)](https://github.com/JaeSeoKim/badge42)
 ### minishell 
 [![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/hportife/minishell)](https://github.com/JaeSeoKim/badge42)
-### cub3D 
-[![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/hportife/cub3d)](https://github.com/JaeSeoKim/badge42)
+<!-- ### cub3D 
+[![mshmelly's 42Project Score](https://badge42.herokuapp.com/api/project/hportife/cub3d)](https://github.com/JaeSeoKim/badge42) -->
